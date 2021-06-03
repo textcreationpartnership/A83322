@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament, whereby Sir George Vane Knight is appointed and authorized to be high Sheriffe of the County Palatine of Durham and Sadberge, and for regulating of some other things concerning the said office, and supply of justice in that county. Die Lunæ 23. Febr. 1645. Ordered by the Lords assembled in Parliament, that this ordinance be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83322</idno><idno type="EEBO-CITATION">99861314</idno>
+  <idno type="VID">159556</idno>
+  <idno type="EEBO-PROQUEST">2248541066</idno>
+  
+            <idno type="STC">Wing E2105</idno>
+            <idno type="STC">Thomason E324_7</idno>
+            <idno type="STC">ESTC R200610</idno>
+            <idno type="PROQUEST">99861314</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861314e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83322)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159556)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E324[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament, whereby Sir George Vane Knight is appointed and authorized to be high Sheriffe of the County Palatine of Durham and Sadberge, and for regulating of some other things concerning the said office, and supply of justice in that county. Die Lunæ 23. Febr. 1645. Ordered by the Lords assembled in Parliament, that this ordinance be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Iohn Wright at the Kings Head in the Old Bayley.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1645[6]; Thomason catalogue lists under 1646.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sheriffs --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Durham (England: County) --  Officials and employees --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159556:1"/>
+            <p>An ORDINANCE OF THE LORDS and COMMONS Assembled in PARLIAMENT, Whereby Sir <hi>George Vane</hi> Knight is appointed and authorized to be high Sheriffe of the County Palatine of <hi>Durham</hi> and <hi>Sadberge,</hi> and for regulating of some other things concerning the said Office, and supply of Justice in that County.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Lunae 23. Febr.</hi> 1645.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords assembled in Parliament, That this Ordinance be forthwith printed and published.</p>
+                        <closer>
+                           <signed>Joh. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London</hi> printed for <hi>Iohn Wright</hi> at the Kings Head in the old Bayley. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159556:2"/>
+            <pb facs="tcp:159556:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Mercurii 18. Febr. 1645.</date>
+               </dateline>
+            </opener>
+            <head>An Ordinance of the Lords and Commons assembled in Parliament, whereby Sir <hi>George Vane</hi> Knight, is appointed and authorized to be high Sheriffe of the Coun<g ref="char:EOLhyphen"/>ty Palatine of <hi>Durham</hi> and <hi>Sadberge,</hi> and for regulating of some other things con<g ref="char:EOLhyphen"/>cerning the said Office, and supply of Ju<g ref="char:EOLhyphen"/>stice in that County.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons taking into consideration the necessity of appointing an High Sheriffe for the County Palatine of <hi>Durham</hi> and <hi>Sadberge▪</hi> for that heretofore all Writs and Processe out of the Exchequer, and some other Courts at <hi>Westminster</hi> were directed to the Bishop himself, who made a Man<g ref="char:EOLhyphen"/>date
+<pb n="2" facs="tcp:159556:3"/> thereupon to the Sheriffe to proceed therein, according to the command and di<g ref="char:EOLhyphen"/>rection of such Writ or Processe, and Writs and Processes issuing out of the Chancery at <hi>Durham,</hi> and other Courts there, were directed immediatly to the Sheriffe of that County, which Sheriffe was heretofore appointed by the said Bi<g ref="char:EOLhyphen"/>shop of <hi>Durham</hi> for the time being, and not in such course as other Sheriffs of other Counties of this Kingdom are: And for that no Sheriffe hath of late been appoint<g ref="char:EOLhyphen"/>ed for that County, Do think fit to Order and Ordain, and be it Ordained by the said Lords and Commons, That Sir <hi>George Vane</hi> Knight, shall be and is hereby autho<g ref="char:EOLhyphen"/>rized and appointed to be Sheriffe of the said County, and do commit unto him the said Sir <hi>George Vane</hi> the Office of Sheriffe, and the custody of the said County Pala<g ref="char:EOLhyphen"/>tine of <hi>Durham</hi> and <hi>Sadberge,</hi> to have and execute the same for and during the space
+<pb n="3" facs="tcp:159556:3"/> of one whole year, next after the passing of this Ordinance, in as large and ample man<g ref="char:EOLhyphen"/>ner as any other Sheriffe of any other County of this Realm, may or ought to do. And the said Lords and Commons do further Ordaine, That the Commissioners of the Great Seal of <hi>England,</hi> shall issue out a Commission under the Great Seal unto <hi>Christopher Fulthropp, Tho. Bowes, Richard Lilburne, George Lilburne,</hi> Esquires, or to any two of them, thereby commanding and inabling them, the said <hi>Christopher Ful<g ref="char:EOLhyphen"/>thropp, Tho. Bowes, Richard Lilburne</hi> and <hi>George Lilburne,</hi> or any two of them, to Minister unto the said Sir <hi>George Vane,</hi> the two usuall Oaths, to wit, the Oath for the due execution of the Office of the said She<g ref="char:EOLhyphen"/>riffe, and the Oath of Supremacy: And the said Commissioners are hereby authori<g ref="char:EOLhyphen"/>zed and commanded to returne in the said Commission to them directed, and the exe<g ref="char:EOLhyphen"/>cution thereof into the Chancery of <hi>Eng<g ref="char:EOLunhyphen"/>land</hi>
+               <pb n="4" facs="tcp:159556:4"/> there to remain of Record, which shall be a sufficient discharge to them, the said Commissioners and every of them in that behalfe. And whereas by a Statute made at <hi>Westminster,</hi> the fourth day of <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> in the 31 yeare of the late Queene <hi>Elizabeth,</hi> of famous memory, Proclama<g ref="char:EOLhyphen"/>tions upon all Writs of Exigent, against any person or persons dwelling within the County Palatine of <hi>Durham,</hi> are to be di<g ref="char:EOLhyphen"/>rected to the Bishop of <hi>Durham,</hi> for the time being, and during the Vacation of the Bishoprick, then to the Chancellor of the said Bishoprick, or County Palatine, for the time being, and not to the Sheriffe of any other Shire, next adjoining to the said Bishoprick or County Palatine. It is hereby Ordained, That all Proclamations upon Exigents against any person or per<g ref="char:EOLhyphen"/>sons dwelling within the said County Pa<g ref="char:EOLhyphen"/>latine, shall be directed immediatly to the said Sheriffe, and the said Sheriffe is hereby
+<pb n="5" facs="tcp:159556:4"/> required and authorized to cause Procla<g ref="char:EOLhyphen"/>mation to be made of the same Writs of Proclamation, according to the Tenor of the same, and shall make true returnes of the same, in such Court and Courts, and before such Justices as the Tenor of the same Writ and Writs of Proclamation shall require and demand; the said Statute of Queen <hi>Elizabeth,</hi> or any other matter or thing to the contrary therof in any wise notwithstanding. And it is further Ordain<g ref="char:EOLhyphen"/>ed by the said Lords and Commons, That all Writs of speciall <hi>Capias ut lagatum,</hi> sin<g ref="char:EOLhyphen"/>gle <hi>Capias ut lagatum non molestando,</hi> and all other Processe and Writs, issuing out of any the Courts at <hi>Westminster,</hi> for or a<g ref="char:EOLhyphen"/>gainst any person or persons resiant within the said County Palatine, shall and may from henceforth be directed from time to time to the said Sheriffe immediatly, who shall do therin, and make such returns them<g ref="char:EOLhyphen"/>upon, as other Sheriffs of any other Coun<g ref="char:EOLhyphen"/>ty,
+<pb n="6" facs="tcp:159556:5"/> not being County Palatine, have here<g ref="char:EOLhyphen"/>tofore used, or might doe. And be it fur<g ref="char:EOLhyphen"/>ther declared, That this Ordinance nor any thing therein contained, is to be construed otherwise then by way of Provision, untill some further course for setling of the said County Palatine of <hi>Duresme</hi> shall be taken by the Parliament; And that this Ordi<g ref="char:EOLhyphen"/>nance, nor any thing therin contained, shall be of force bey<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd one year only next after the Date hereof, and no longer. And it is lastly Ordained and Declared, That as well the said Sheriffe in the execution of his said Place and Office, as also all other Officers and persons that shall do any thing by ver<g ref="char:EOLhyphen"/>tue, and in execution and pursuance of this Ordinance, and of the power therein con<g ref="char:EOLhyphen"/>tained, and according to the direction of the same, shall be kept and indempnified by the Authority and Power of both Houses of Parliament.</p>
+            <closer>
+               <signed>Io. Brown. Cler. Parliamentorum.</signed>
+               <signed>H. Elsyng. Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
